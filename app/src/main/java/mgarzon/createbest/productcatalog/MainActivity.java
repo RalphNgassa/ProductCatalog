@@ -27,7 +27,9 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    EditText editTextName;
+    EditText editTextName
+
+            ;
     EditText editTextPrice;
     Button buttonAddProduct;
     ListView listViewProducts;
